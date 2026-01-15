@@ -34,17 +34,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
----
-
-
-### 📊 **Hacker Stats**
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibaanwork-cloud&theme=radical&hide_border=true" alt="Vibaan's Streak" />
-</div>
-
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vibaanwork-cloud&style=flat-square&color=blue" alt="Profile Views" />
 </div>
-
