@@ -1,45 +1,47 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=WARNING:+SYSTEM_BREACH_DETECTED;USER:+X_VIBΛΛN_07;ACCESS+LEVEL:+ROOT/ADMIN;INITIATING_LYRA_AI_PROTOCOL..." alt="Typing SVG" />
+</div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=25D366&center=true&vCenter=true&width=600&lines=System+Initialized...;Hello,+I'm+Vibaan;Founder+of+Vibaan+Studios;Creator+of+Lyra+AI;Ethical+Hacker+&+Dev" alt="Typing SVG" />
+<br>
 
-  <br>
+<table align="center" width="100%" style="border: 0;">
+  <tr>
+    <td width="55%" valign="top">
+      <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+        <h3 align="left" style="color: #58a6ff;">root@vibaan:~# <span style="color: #fff;">cat user_profile.txt</span></h3>
+        <br>
+        <ul style="list-style-type: none; padding: 0;">
+          <li>🤖 <b>System:</b> <span style="color: #79c0ff;">Lyra AI (Version 32.1)</span> [Active]</li>
+          <li>🏢 <b>Business:</b> <span style="color: #79c0ff;">Vibaan Studios</span> [Online]</li>
+          <li>🎓 <b>Role:</b> <span style="color: #d2a8ff;">Student / Ethical Hacker</span></li>
+          <li>📍 <b>Target:</b> <span style="color: #aff5b4;">Global Domination (via Code)</span></li>
+          <li>☠️ <b>Status:</b> <span style="color: #ff7b72;">Learning Penetration Testing</span></li>
+        </ul>
+        <br>
+        <h3 align="left" style="color: #58a6ff;">root@vibaan:~# <span style="color: #fff;">./run_skills.sh</span></h3>
+        <p align="left">> Loading arsenal...</p>
+      </div>
+    </td>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=VIBΛΛN&fontSize=80&fontColor=25D366&animation=fadeIn&fontAlignY=40&desc=The%20Architect%20of%20Digital%20Realms&descAlignY=60&descAlign=50" width="100%" />
+    <td width="45%" valign="top" align="center">
+      <br>
+      <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="90%" style="border-radius: 10px;" />
+      <br><br>
+      <div align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=kali,linux,python,html,css,js,react,git,github,vscode,bash&theme=dark&perline=5" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-  <br>
+<br>
 
-  <h3>👨‍💻 "I don't just write code, I build the future."</h3>
-  
-  <p align="center">
-    🔭 Currently upgrading <b><a href="https://github.com/vibaanwork-cloud">Lyra AI (Voice Assistant)</a></b><br>
-    💼 Building Empires at <b><a href="https://vibaanstudios.com">Vibaan Studios</a></b><br>
-    🔐 Learning <b>Advanced Penetration Testing & CyberSec</b><br>
-    ⚡ Fun Fact: <b>I know your IP address... just kidding (or am I?)</b> 😉
-  </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30&height=70&section=footer&text=VIBΛΛN%20STUDIOS%20%20•%20%20LYRA%20AI%20%20•%20%20SECURITY&fontSize=20&fontColor=00ff00&animation=fadeIn" width="100%" />
+</div>
 
-  <br>
-
-  <h3>🛠️ My Hacker's Toolkit</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,linux,kali,html,css,js,react,vscode,github,git,bash&theme=dark" />
-    </a>
-  </p>
-
-  <br>
-
-  <h3>🌐 Connect / Hire Me</h3>
-  <p>
-    <a href="https://vibaanstudios.com">
-      <img src="https://img.shields.io/badge/Website-VibaanStudios.com-success?style=for-the-badge&logo=googlechrome&logoColor=white" />
-    </a>
-    <a href="https://github.com/vibaanwork-cloud">
-      <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-
-  <br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=25D366&height=80&section=footer" width="100%" />
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vibaanwork-cloud/count.svg" alt="visitor count" />
 </div>
