@@ -38,10 +38,10 @@
 
 ---
 
-### 📊 **Github Stats**
+
+### 📊 **Hacker Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibaanwork-cloud&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibaanwork-cloud&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibaanwork-cloud&theme=radical&hide_border=true" alt="Vibaan's Streak" />
 </div>
 
 <div align="center">
