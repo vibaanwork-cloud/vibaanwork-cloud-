@@ -23,14 +23,3 @@
 </div>
 
 <br>
-
-### 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibaanwork-cloud&theme=highcontrast&hide_border=true" alt="Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=60&section=footer" width="100%" />
-</div>
